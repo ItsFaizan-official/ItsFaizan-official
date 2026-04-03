@@ -20,7 +20,6 @@
 
 </div>
 
----
 
 ## 🧠 Who Am I?
 
@@ -50,7 +49,7 @@ flowchart LR
 
 </div>
 
----
+
 
 ## 🚀 Core Domains
 
@@ -66,7 +65,7 @@ flowchart LR
 
 </div>
 
----
+
 
 ## 🛠️ Technology Arsenal
 
@@ -157,14 +156,17 @@ flowchart LR
 </td>
 </tr>
 </table>
----
+
 
 ## 📊 GitHub Intelligence Dashboard
 
 <div align="center">
 
 <!-- Row 1: Stats + Streak -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ItsFaizan-official&show_icons=true&theme=tokyonight&border_color=00C2FF&title_color=00C2FF&icon_color=00C2FF&bg_color=0d1117&hide_border=false&count_private=true&include_all_commits=true&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ItsFaizan-
+  official&show_icons=true&theme=tokyonight&border_color=00C2FF&title_color=00C2FF&icon_color=00C2FF&bg_color=0d1117&hide_border=false&count
+  _private=true&include_all_commits=true&rank_icon=github" />
+<br/><br/>
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ItsFaizan-official&theme=tokyonight&border=00C2FF&ring=00C2FF&fire=FF6B6B&currStreakLabel=00C2FF&background=0d1117&sideLabels=ffffff" />
 
 <br/><br/>
@@ -193,12 +195,14 @@ flowchart LR
   <img src="https://img.shields.io/badge/Coding%20Since-Sep%202025-D4537E?style=flat&labelColor=0d1117"/>
 </p>
 
----
+
 
 ## 🧾 ⚡ Developer Metrics Dashboard
 
 <table align="center">
+  
 <tr>
+  
 <td align="center">
 
 ### 🌟 Engagement
@@ -238,13 +242,13 @@ flowchart LR
 </td>
 </tr>
 </table>
+
 ## 🏅 ⚡ Achievement System
 
 <p align="center">
   <img src="https://img.shields.io/badge/🚀_Developer_Status-Active_&_Building-00C2FF?style=flat&labelColor=0d1117"/>
 </p>
 
----
 
 <table align="center">
 <tr>
@@ -311,7 +315,7 @@ flowchart LR
 </tr>
 
 </table>
----
+
 
 ## 💡 My Philosophy
 
@@ -347,21 +351,17 @@ print(me.current_focus())
 
 </div>
 
----
 
 ## 📈 Contribution Snake
 
-<div align="center">
-
+<div align="Left">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
   <img alt="contribution snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="97%" />
 </picture>
-
 </div>
 
----
 
 ## 🌐 Let's Connect & Collaborate
 
