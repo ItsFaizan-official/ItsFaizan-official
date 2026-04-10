@@ -379,7 +379,7 @@ print(me.current_focus())
   <img src="https://img.shields.io/badge/Email-faizankhanofficial71-EA4335?style=flat&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
-<a href="tel:+917263946159">
+<a href="tel:+91-8459414569">
   <img src="https://img.shields.io/badge/WhatsApp-%2B91--7263946159-25D366?style=flat&logo=whatsapp&logoColor=white" />
 </a>
 
