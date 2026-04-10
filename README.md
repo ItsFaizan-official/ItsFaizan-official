@@ -380,7 +380,7 @@ print(me.current_focus())
 </a>
 &nbsp;
 <a href="tel:+91-8459414569">
-  <img src="https://img.shields.io/badge/WhatsApp-%2B91--7263946159-25D366?style=flat&logo=whatsapp&logoColor=white" />
+  <img src="https://img.shields.io/badge/WhatsApp-%2B91--8459414569-25D366?style=flat&logo=whatsapp&logoColor=white" />
 </a>
 
 </div>
@@ -390,6 +390,6 @@ print(me.current_focus())
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d2137,100:0d1117&height=120&section=footer&text=Let%27s+Build+Something+Intelligent+Together&fontSize=18&fontColor=00C2FF&fontAlignY=65&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d2137,100:0d1117&height=120&section=footer&text=Let%27s+Build+Something+Intelligent+Together&fontSize=18&fontColor=32d0ff&fontAlignY=65&animation=fadeIn" />
 
 </div>
